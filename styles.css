@@ -10,9 +10,12 @@ h1 {
 /* Class selectors */
 /* ---------------------------------------------------- */
 
-/* .container{
-  background-color: rgb(233, 224, 224);
-} */
+.container {
+  background-color: rgb(255, 255, 255);
+  padding: 10px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
 
 .marker {
   width: 200px;
@@ -21,13 +24,25 @@ h1 {
 }
 
 .one {
-  background-color: red;
+  background-color: rgb(255, 255, 0);
 }
 
 .two {
-  background-color: green;
+  background-color: rgb(0, 255, 255);
 }
 
 .three {
-  background-color: blue;
+  background-color: rgb(255, 0, 255);
 }
+
+/* 
+Primary Colors:
+red > rgb(255, 0, 0)
+green > rgb(0, 255, 0)
+blue > rgb(0, 0, 255)
+
+Secondary Colors:
+yellow > pure red & green > rgb(255, 255, 0)
+cyan > pure green & blue > rgb(0, 255, 255)
+magenta > pure red & blue > rgb(255, 0, 255)
+*/
