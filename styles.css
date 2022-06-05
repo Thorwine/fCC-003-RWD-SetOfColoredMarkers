@@ -24,25 +24,40 @@ h1 {
 }
 
 .one {
-  background-color: rgb(255, 255, 0);
+  background-color: rgb(0, 0, 0);
 }
 
 .two {
-  background-color: rgb(0, 255, 255);
+  background-color: rgb(0, 0, 0);
 }
 
 .three {
-  background-color: rgb(255, 0, 255);
+  background-color: rgb(0, 0, 0);
 }
 
 /* 
+---------------
 Primary Colors:
+---------------
 red > rgb(255, 0, 0)
 green > rgb(0, 255, 0)
 blue > rgb(0, 0, 255)
 
+-----------------
 Secondary Colors:
+-----------------
 yellow > pure red & green > rgb(255, 255, 0)
 cyan > pure green & blue > rgb(0, 255, 255)
 magenta > pure red & blue > rgb(255, 0, 255)
+
+----------------
+Tertiary Colors:
+----------------
+orange > rgb(255, 127, 0)
+spring green > rgb(0, 255, 127)
+violet > rgb(127, 0, 255)
+
+chartreuse green > rgb(127, 255, 0)
+azure > rgb(0, 127, 255)
+rose > rgb(255, 0, 127)
 */
