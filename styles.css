@@ -5,3 +5,29 @@
 h1 {
   text-align: center;
 }
+
+/* ---------------------------------------------------- */
+/* Class selectors */
+/* ---------------------------------------------------- */
+
+/* .container{
+  background-color: rgb(233, 224, 224);
+} */
+
+.marker {
+  width: 200px;
+  height: 25px;
+  margin: 10px auto;
+}
+
+.one {
+  background-color: red;
+}
+
+.two {
+  background-color: green;
+}
+
+.three {
+  background-color: blue;
+}
